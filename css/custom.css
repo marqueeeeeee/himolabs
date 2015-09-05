@@ -367,3 +367,7 @@ body {
 .text-default {
     color: #FFF;
 }
+
+.top-margin {
+    margin-top: 10px;
+}
