@@ -36,3 +36,18 @@
 .himo-content {
 	min-height: 200px;
 }
+
+.himo-brand-heading {
+	font-size: 40px;
+	margin-top: 100px;
+}
+ 
+.himo-logo-header {
+	width: 25%;
+	margin-top: 0px;
+}
+
+.himo-logo-detail {
+	width: 50%;
+	margin-top: 20px
+}
