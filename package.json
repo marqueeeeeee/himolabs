@@ -1,0 +1,23 @@
+{
+  "name": "www",
+  "version": "1.0.0",
+  "description": "HimoLabs website Initial template powered by Greyscale (http://startbootstrap.com/template-overviews/grayscale/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/himolabs/himolabs-webpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/himolabs/himolabs-webpage/issues"
+  },
+  "homepage": "https://gitlab.com/himolabs/himolabs-webpage#README",
+  "dependencies": {
+    "connect": "^3.6.2",
+    "serve-static": "^1.12.3"
+  }
+}
